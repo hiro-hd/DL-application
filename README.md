@@ -1,2 +1,2 @@
 # DL-application
-Based on advanced Pytorch book
+Based on advanced Pytorch DL book
